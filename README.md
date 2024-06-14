@@ -21,4 +21,8 @@ Contributions are welcome! Please submit pull requests or open issues to contrib
 ## License
 This project is licensed under the MIT License.
 
+
+![diagram-export-14-06-2024-12_12_28](https://github.com/Edimar-Dias-dos-Santos/MovieShelf/assets/97312864/3535a14d-c1e3-496f-bf71-3fd9e74459c9)
+
+
 ![diagram-export-14-06-2024-11_43_20](https://github.com/Edimar-Dias-dos-Santos/MovieShelf/assets/97312864/6ecb1dd6-f8fe-4230-ba02-444b9ca500ef)
